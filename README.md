@@ -1,5 +1,3 @@
-md
-
 # Portfolio
 
 Personal portfolio focused on CAD designs created in Fusion 360.

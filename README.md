@@ -32,6 +32,7 @@ The project focuses on translating real industrial geometry into a detailed CAD 
 
 <img width="921" height="437" alt="image" src="https://github.com/user-attachments/assets/367f73c3-b339-47cb-9adb-872af133e987" />
 
+
 Additional projects and detailed CAD files can be provided upon request.
 
 

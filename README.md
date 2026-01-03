@@ -2,11 +2,13 @@
 
 ## Fusion 360 CAD Projects
 
+CAD portfolio showcasing functional and industrial designs developed in Fusion 360.
+The projects focus on prosthetic systems, mechanical components, and industrial modeling.
+
 ### Prosthetic Arm and Hand Design
 Design of a prosthetic arm with an articulated hand, developed in Fusion 360.
-The project focuses on functional assembly, articulation of fingers, and integration between the forearm and hand components.
-Created as a technical CAD exercise with emphasis on mechanical structure and realistic proportions.
-Developed as part of a CAD training program, modeled from scratch.
+The project focuses on functional assembly, finger articulation, and integration between forearm and hand components.
+Modeled from scratch as part of a CAD training program, with emphasis on mechanical structure and proportions.
 
 <img width="921" height="346" alt="image" src="https://github.com/user-attachments/assets/89e821d7-ef57-410d-911b-6ea1736dbdf3" />
 

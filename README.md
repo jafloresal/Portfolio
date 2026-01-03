@@ -27,9 +27,8 @@ Modeled from scratch as part of a CAD training program, with emphasis on functio
 <img width="921" height="486" alt="image" src="https://github.com/user-attachments/assets/48540fb3-1c73-406b-a792-7c4c8f2c0cd0" />
 
 ### Industrial Miniature Model – Slag Pot (Huachipato)
-Design of a scaled industrial miniature model based on a slag pot used in steelmaking operations.
-The project focuses on translating real industrial geometry into a detailed CAD model.
-Developed in Fusion 360 as a modeling exercise with emphasis on proportions and structural details.
+Developed as a commissioned project for a client, based on a real industrial slag pot used in steelmaking operations.
+The project focuses on translating real industrial geometry into a detailed CAD miniature model.
 
 <img width="921" height="437" alt="image" src="https://github.com/user-attachments/assets/367f73c3-b339-47cb-9adb-872af133e987" />
 
